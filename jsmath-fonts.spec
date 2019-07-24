@@ -1,6 +1,6 @@
 Name:		jsmath-fonts
-Version:	3.0
-Release:	3
+Version:	20161221
+Release:	1
 License:	Freeware
 Summary:	jsMath TrueType fonts
 
