@@ -6,7 +6,7 @@ Summary:	jsMath TrueType fonts
 
 Source:		http://www.math.union.edu/~dpvc/jsMath/download/TeX-fonts-linux.tgz
 BuildArch:	noarch
-URL:		http://www.math.union.edu/~dpvc/jsMath/download/jsMath-fonts.html
+URL:		https://www.math.union.edu/~dpvc/jsMath/download/jsMath-fonts.html
 
 %description
 The jsMath package is designed to work best if you have installed the TeX
